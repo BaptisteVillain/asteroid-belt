@@ -788,7 +788,7 @@ function game_over_frame(){
 
   context.font = "400 26px PT Sans";
   context.fillStyle = "#FFFFFF";
-  context.fillText("TIME SPEND", width/2-125, height/2.5);
+  context.fillText("TIME SPENT", width/2-125, height/2.5);
 
   context.font = "700 26px PT Sans";
   context.fillStyle = "#FFFFFF";
